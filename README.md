@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
+# 🚀 ZXDDoS: Release v1.5 - Free DDoS Panel 🚀
 
 # Store: https://condi.billgang.store/
 
@@ -12,8 +12,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: 0367458227<br>
+> Password: huuan102008<br>
 <p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -51,12 +51,13 @@ One star = continuously updating multiple methods
 # Setup
 ```sh
 Debain, Ubuntu (Ubuntu 20.04 better):
-sudo apt-get install git -y
-sudo apt-get install golang -y
-sudo apt-get install perl -y
-sudo apt-get install python3 -y
-sudo apt-get install python2 -y
-sudo apt-get install python3-pip -y
+apt-get install git -y
+apt-get install golang -y
+apt-get install perl -y
+apt-get install python3 -y
+apt-get install python2 -y
+apt-get install python3-pip -y
+apt-get install curl -y
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -;sudo apt -y install nodejs
 
 How to use: 
