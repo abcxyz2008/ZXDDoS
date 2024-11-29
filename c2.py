@@ -1,6 +1,6 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
-# COPY = NIGGER              #
+# ZXDDoS Made by Hữu An      #
+# Fb: fb.com/huuan28         #
 ##############################
 
 import socket
